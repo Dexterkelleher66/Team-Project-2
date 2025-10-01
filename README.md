@@ -5,11 +5,23 @@
    <h2 style="font-family:Times New Roman; font-size:160%; color:MediumSeaGreen; text-align: center;">
     Authentic Mexican cuisine for any occasion
   </h2>
-<h3 style = color:MediumSeaGreen;>Drop-Off Platters</h3>
+<h3 style = "color:MediumSeaGreen;">Drop-Off Platters</h3>
      <p syle = color:Black;>$14–$19 per guest><ol>
      <ul>
         <li>Delivered hot in disposable pans</li>
         <li>Reheating & allergen labels</li>
+    </ul>
+ <h3 style = "color:MediumSeaGreen;">Buffet Service</h3>
+     <p syle = color:Black;>$20–$26 per guest><ol>
+     <ul>
+        <li>On-site staff and servers</li>
+        <li>Constantly restock food</li>
+    </ul>   
+<h3 style = "color:MediumSeaGreen;">Full Service Event</h3>
+     <p syle = color:Black;>$26–$32 per guest><ol>
+     <ul>
+        <li>All inclusive catering</li>
+        <li>Custome menu design and decor</li>
     </ul>
 
 <p>
