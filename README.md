@@ -1,7 +1,10 @@
 <body style = "background-color:LightGray;">
-<h1 style = "font-family:Times New Roman; font-size: 160%; black;m
-<h1 style="font-size:260px;color:Tomato;text-align:center;">Catering Services</h1>
-<h2 style="font-size:160px;">Authentic Mexican cusisne for any occasion</h2>h2>
+<h2 style="font-size: 60px; color: Tomato; text-align: center;">
+    Catering Services
+  </h2>
+   <h3 style="font-size: 32px; color: Tomato; text-align: center;">
+    Authentic Mexican cuisine for any occasion
+  </h3>
 <p>
 This paragraph
 contains a lot of lines
