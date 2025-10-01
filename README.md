@@ -6,7 +6,7 @@
     Authentic Mexican cuisine for any occasion
   </h2>
 <h3 style = "color:MediumSeaGreen;">Drop-Off Platters</h3>
-     <p syle = color:Black;>$14–$19 per guest><ol>
+     <p style = color:Black;>$14–$19 per guest><ol>
      <ul>
         <li>Freshly prepared dishes</li>
         <li>Disposable serving ware</li>
