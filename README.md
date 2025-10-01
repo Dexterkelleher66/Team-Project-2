@@ -1,7 +1,7 @@
 <body style = "background-color:LightGray;">
 <h1 style = "font-family:Times New Roman; font-size: 160%; black;m
-<h1 style="font-size:160px;">Heading 1</h1>
-
+<h1 style="font-size:260px;color:Tomato;">Catering Services</h1>
+<h2 style="font-size:160px;">Authentic Mexican cusisne for any occasion</h2>h2>
 <p>
 This paragraph
 contains a lot of lines
