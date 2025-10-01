@@ -8,6 +8,8 @@
   </h2>
 
 <table>
+  <div style="text-align: center;">
+    <table style="margin: auto; background-color: gray;">
   <tr>
     <th style="color: MediumSeaGreen; font-size: 120%;">Drop-Off Platters</th>
     <th style="color: MediumSeaGreen; font-size: 120%;">Buffet Service</th>
