@@ -8,7 +8,7 @@
   </h2>
 
   <h3 style="color: MediumSeaGreen;">Drop-Off Platters</h3>
-  <p style="color: Black;">$14–$19 per guest</p>
+  <p style="color: Black;">$14–$20 per guest</p>
   <ul>
     <li>Freshly prepared dishes</li>
     <li>Disposable serveware</li>
@@ -32,4 +32,11 @@
   </ul>
 </body>
 
+ <h3 style="color: MediumSeaGreen;">Events We Cater</h3>
+  <ul>
+    <li>Professional Events</li>
+    <li>Weddings</li>
+    <li>Private parties & Celebrations</li>
+  </ul>
+</body>
 
