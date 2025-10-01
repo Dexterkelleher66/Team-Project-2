@@ -1,8 +1,8 @@
 <body style = "background-color:LightGray;">
-<h2 style="font-size: 60px; color: Tomato; text-align: center;">
+<h2 style="font-family:verdana;font-size: 260%; color: Tomato; text-align: center;">
     Catering Services
   </h2>
-   <h3 style="font-size: 32px; color: Tomato; text-align: center;">
+   <h3 style="font-family:Times New Roman; font-size:160%; color:Tomato; text-align: center;">
     Authentic Mexican cuisine for any occasion
   </h3>
 <p>
