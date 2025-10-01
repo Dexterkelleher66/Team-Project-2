@@ -47,7 +47,7 @@
     Events We Cater
   </h2>
 <ul>
-    <li>Freshly prepared dishes</li>
-    <li>Disposable serveware</li>
-    <li>Reheatable platters</li>
+    <li>Professional Events</li>
+    <li>Weddings</li>
+    <li>Private Parties & Celebrations</li>
   </ul>
