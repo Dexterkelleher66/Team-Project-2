@@ -8,20 +8,23 @@
 <h3 style = "color:MediumSeaGreen;">Drop-Off Platters</h3>
      <p syle = color:Black;>$14–$19 per guest><ol>
      <ul>
-        <li>Delivered hot in disposable pans</li>
-        <li>Reheating & allergen labels</li>
+        <li>Freshly prepared dishes</li>
+        <li>Disposable serving ware</li>
+         <li>Reheatable platters</li>
     </ul>
  <h3 style = "color:MediumSeaGreen;">Buffet Service</h3>
      <p syle = color:Black;>$20–$26 per guest><ol>
      <ul>
         <li>On-site staff and servers</li>
         <li>Constantly restock food</li>
+         <li>Handles set up/clean up</li>
     </ul>   
 <h3 style = "color:MediumSeaGreen;">Full Service Event</h3>
      <p syle = color:Black;>$26–$32 per guest><ol>
      <ul>
         <li>All inclusive catering</li>
-        <li>Custome menu design and decor</li>
+        <li>Custom menu design and decor</li>
+        <li>Live chef attended stations</li>
     </ul>
 
 <p>
