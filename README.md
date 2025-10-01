@@ -42,3 +42,12 @@
     </td>
   </tr>
 </table>
+
+ <h2 style="font-family: 'Times New Roman', serif; font-size: 160%; color: MediumSeaGreen;">
+    Events We Cater
+  </h2>
+<ul>
+    <li>Freshly prepared dishes</li>
+    <li>Disposable serveware</li>
+    <li>Reheatable platters</li>
+  </ul>
