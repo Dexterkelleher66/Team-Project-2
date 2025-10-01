@@ -1,10 +1,17 @@
 <body style = "background-color:LightGray;">
-<h2 style="font-family:verdana;font-size: 260%; color: Tomato; text-align: center;">
+<h1 style="font-family:verdana;font-size: 260%; color: Tomato; text-align: center;">
     Catering Services
-  </h2>
-   <h3 style="font-family:Times New Roman; font-size:160%; color:Tomato; text-align: center;">
+  </h1>
+   <h2 style="font-family:Times New Roman; font-size:160%; color:Medium Sea Green; text-align: center;">
     Authentic Mexican cuisine for any occasion
-  </h3>
+  </h2>
+<h3 itemprop="name">Drop-Off Platters</h3>
+     <p class="meta">$14–$19 per guest 
+     <ul>
+        <li>Delivered hot in disposable pans</li>
+        <li>Reheating & allergen labels</li>
+    </ul>
+
 <p>
 This paragraph
 contains a lot of lines
