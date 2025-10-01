@@ -1,3 +1,12 @@
+<body style="background-color: LightGray;">
+  <h1 style="font-family: Verdana; font-size: 260%; color: Tomato; text-align: center;">
+    Catering Services
+  </h1>
+
+  <h2 style="font-family: 'Times New Roman', serif; font-size: 160%; color: MediumSeaGreen; text-align: center;">
+    Authentic Mexican cuisine for any occasion
+  </h2>
+
 <table>
   <tr>
     <th style="color: MediumSeaGreen; font-size: 120%;">Drop-Off Platters</th>
