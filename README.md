@@ -55,3 +55,6 @@
  <h2 style="font-family: 'Times New Roman', serif; font-size: 160%; color: MediumSeaGreen;">
 Customizable Menus</h2>
 <p style="color: Black;">Create your own personal menu out of our variety of traditional Mexican meals that best suits your personal preferences and dietary needs.<p/>
+
+<h2 style ="font-family: 'Times New Roman, serif; font-size: 160%; color: MediumSeaGreen;">Top Quality Ingredients</h2>
+<p style = "color: Black;">Every dish is cooked from scratch, including our hand-pressed tortillas, fire-roasted salsas, and small-batch marinades made in-house each day using fresh, seasonal ingredients from nearby farms and purveyors. We skip the frozen shortcuts so flavors stay bright and authentic, and we scale that same quality from a 20-person lunch to a 200-guest celebration.<p/>
