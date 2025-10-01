@@ -51,3 +51,7 @@
     <li>Weddings</li>
     <li>Private Parties & Celebrations</li>
   </ul>
+
+ <h2 style="font-family: 'Times New Roman', serif; font-size: 160%; color: MediumSeaGreen;">
+Customizable Menus</h2>
+<p style="color: Black;">Create your own personal menu out of our variety of traditional Mexican meals that best suits your personal preferences and dietary needs.<p/>
