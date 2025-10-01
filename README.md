@@ -2,11 +2,11 @@
 <h1 style="font-family:verdana;font-size: 260%; color: Tomato; text-align: center;">
     Catering Services
   </h1>
-   <h2 style="font-family:Times New Roman; font-size:160%; color:Medium Sea Green; text-align: center;">
+   <h2 style="font-family:Times New Roman; font-size:160%; color:MediumSeaGreen; text-align: center;">
     Authentic Mexican cuisine for any occasion
   </h2>
-<h3 itemprop="name">Drop-Off Platters</h3>
-     <p class="meta">$14–$19 per guest 
+<h3 style = color:MediumSeaGreen;>Drop-Off Platters</h3>
+     <p syle = color:Black;>$14–$19 per guest><ol>
      <ul>
         <li>Delivered hot in disposable pans</li>
         <li>Reheating & allergen labels</li>
