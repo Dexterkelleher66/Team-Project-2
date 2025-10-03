@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <p style="color: Black;">$14–$20 per guest</p>
+      <p style="color: Tomato;">$14–$20 per guest</p>
       <ul>
         <li>Freshly prepared dishes</li>
         <li>Disposable serveware</li>
@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td style="vertical-align: top;">
-      <p style="color: Black;">$20–$26 per guest</p>
+      <p style="color: Tomato;">$20–$26 per guest</p>
       <ul>
         <li>On-site staff and servers</li>
         <li>Constant restocking of food</li>
@@ -30,7 +30,7 @@
       </ul>
     </td>
     <td style="vertical-align: top;">
-      <p style="color: Black;">$26–$32 per guest</p>
+      <p style="color: Tomato;">$26–$32 per guest</p>
       <ul>
         <li>All-inclusive catering</li>
         <li>Custom menu design & decor</li>
@@ -47,10 +47,10 @@
     Events We Cater
   </h2>
 <ul>
-    <li>Professional Events</li>
-    <li>Weddings</li>
-    <li>Private Parties & Celebrations</li>
-  </ul>
+  <li style="text-decoration: underline;">Professional Events</li>
+  <li style="text-decoration: underline;">Weddings</li>
+  <li style="text-decoration: underline;">Private Parties & Celebrations</li>
+</ul>
 
  <h2 style="font-family: 'Times New Roman',serif;font-size: 160%; color: MediumSeaGreen;">
 Customizable Menus</h2>
@@ -58,7 +58,7 @@ Customizable Menus</h2>
 
  <h2 style="font-family: 'Times New Roman', serif; font-size: 160%; color: MediumSeaGreen;">
     Authentic Mexican cuisine for any occasion </h2>
-<p style = "color: Black;">Every dish is cooked from scratch, including our hand-pressed tortillas, fire-roasted salsas, and small-batch marinades made in-house each day using fresh, seasonal ingredients from nearby farms and purveyors. We skip the frozen shortcuts so flavors stay bright and authentic, and we scale that same quality from a 20-person lunch to a 200-guest celebration.<p/>
+<p style = "color: Black;">Every dish is cooked from scratch, including our <b>hand-pressed tortillas,<b> <b>fire-roasted salsas,<b> and <b>small-batch marinades<b></b> made in-house each day using fresh, seasonal ingredients from nearby farms and purveyors. We skip the frozen shortcuts so flavors stay bright and authentic, and we scale that same quality from a 20-person lunch to a 200-guest celebration.<p/>
 
 <h2 style = "font-family: 'Times New Roman',serif; font-size: 160%; color: MediumSeaGreen;">Service Timeline</h2>
  <ol>
