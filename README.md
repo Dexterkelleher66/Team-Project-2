@@ -69,5 +69,5 @@ Customizable Menus</h2>
   </ol>
 <footer style="text-align: center;">
   Contact us at 
-  <a href="dkelleh@purdue.edu">dkelleh@purdue.edu</a>
+  <a href="mailto:dkelleh@purdue.edu">dkelleh@purdue.edu</a>
 </footer>
