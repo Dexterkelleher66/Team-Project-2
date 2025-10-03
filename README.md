@@ -6,8 +6,7 @@
   <h2 style="font-family: 'Times New Roman', serif; font-size: 160%; color: MediumSeaGreen; text-align: center;">
     Authentic Mexican cuisine for any occasion
   </h2>
-
-<table style="margin: auto; background-color: Tomato;">  <div style="text-align: center;">
+ <table style="margin: auto; background-color: gray;">
   <tr>
     <th style="color: MediumSeaGreen; font-size: 120%;">Drop-Off Platters</th>
     <th style="color: MediumSeaGreen; font-size: 120%;">Buffet Service</th>
