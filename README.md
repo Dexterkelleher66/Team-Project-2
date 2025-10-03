@@ -62,9 +62,9 @@ Customizable Menus</h2>
 
 <h2 style = "font-family: 'Times New Roman,serif; font-size: 160%; color: MediumSeaGreen;">Service Timeline</h2>
  <ol>
-    <li> 1. Inquiry & Initial Questions</li>
-    <li> 2. Order & Booking</li>
-    <li> 3. Deposit & Finalize Booking</li>
-    <li> 4. Event Day!</li>
+    <li>  Inquiry & Initial Questions</li>
+    <li>  Order & Booking</li>
+    <li>  Deposit & Finalize Booking</li>
+    <li>  Event Day!</li>
   </ol>
 
