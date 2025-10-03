@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-<img src="https://github.com/dexterkelleher66/Team-Projext-2/raw/main/images/Fiesta Empire.jpeg" alt = "image" height = "300">
+<img src="https://github.com/dexterkelleher66/Team-Project-2/raw/main/images/Fiesta%20empire.jpeg" alt = "image" height = "300">
 
 
  <h2 style="font-family: 'Times New Roman', serif; font-size: 160%; color: MediumSeaGreen;">
