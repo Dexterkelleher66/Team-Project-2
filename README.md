@@ -60,11 +60,11 @@ Customizable Menus</h2>
     Authentic Mexican cuisine for any occasion </h2>
 <p style = "color: Black;">Every dish is cooked from scratch, including our hand-pressed tortillas, fire-roasted salsas, and small-batch marinades made in-house each day using fresh, seasonal ingredients from nearby farms and purveyors. We skip the frozen shortcuts so flavors stay bright and authentic, and we scale that same quality from a 20-person lunch to a 200-guest celebration.<p/>
 
-<h2 style = "font-family: 'Times New Roman,serif; font-size: 160%; color: MediumSeaGreen;">Service Timeline"</h2>
- <ul>
+<h2 style = "font-family: 'Times New Roman,serif; font-size: 160%; color: MediumSeaGreen;">Service Timeline</h2>
+ <ol>
     <li> 1. Inquiry & Initial Questions</li>
     <li> 2. Order & Booking</li>
     <li> 3. Deposit & Finalize Booking</li>
     <li> 4. Event Day!</li>
-  </ul>
+  </ol>
 
