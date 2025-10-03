@@ -75,6 +75,10 @@ Customizable Menus</h2>
 <h2 style = "font-family: 'Times New Roman',serif; font-size: 160%; color: MediumSeaGreen;">Taco Bar Calculator!</h2>
 <a href="https://www.omnicalculator.com/food/taco-bar" target="_blank">Visit Taco Bar Calculator Website</a>
 
+<a href="files/your-document.pdf" download>Download PDF</a>
+
+<a href="Fiesta Empire Selection.pdf" download>Download Fiesta Empire Selection (PDF)</a>
+
 
 <footer>
   <p> Page made by Dexter Kelleher</p>
