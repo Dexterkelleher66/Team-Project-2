@@ -42,6 +42,7 @@
 
 <img src="https://github.com/Dexterkelleher66/Team-Project-2/raw/main/images/Fiesta%20Empire.jpeg" alt="image" height="300">
 
+
  <h2 style="font-family: 'Times New Roman', serif; font-size: 160%; color: MediumSeaGreen;">
     Events We Cater
   </h2>
