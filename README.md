@@ -67,7 +67,7 @@ Customizable Menus</h2>
     <li>  Deposit & Finalize Booking</li>
     <li>  Event Day!</li>
   </ol>
-<footer style="text-align: center;">
+<footer style="font-family: 'Verdana';">
   Contact us at 
   <a href="mailto:dkelleh@purdue.edu">dkelleh@purdue.edu</a>
 </footer>
