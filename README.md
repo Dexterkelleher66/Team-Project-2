@@ -76,8 +76,12 @@ Customizable Menus</h2>
 <a href="https://www.omnicalculator.com/food/taco-bar" target="_blank">Visit Taco Bar Calculator Website</a>
 
 
+<footer>
+  <p> Page made by Dexter Kelleher</p>
+  <p>Date modified by: <span id ="datemodified"></p>
+</footer>
 <script>
-  document.getElementById("lastModified").textContent = document.lastModified;
+  document.getElementById('datemodified').textContent = new Date().toISOString().split('T')[0];
 </script>
 
 
