@@ -67,13 +67,7 @@ Customizable Menus</h2>
     <li>  Deposit & Finalize Booking</li>
     <li>  Event Day!</li>
   </ol>
-<h2 style = "font family: 'Verdana', serif; font-size: 160%; color: MediumSeaGreen;" <a href="mailto:dkelleh@purdue.edu">
->Click here to contact me with any questions:</h2>
-  
-<footer>
-  <p> Page made by Dexter Kelleher</p>
-  <p> Date modfied by: <span id= "datemodified"></span></p>
+<footer style="text-align: center;">
+  Contact us at 
+  <a href="dkelleh@purdue.edu">dkelleh@purdue.edu</a>
 </footer>
-</script>
-document.getElementByID('datemodified').textContent = newDate().toISOString().split('T')[0];
-</script>
