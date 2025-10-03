@@ -72,13 +72,13 @@ Customizable Menus</h2>
   <a href="mailto:dkelleh@purdue.edu">dkelleh@purdue.edu</a>
 </footer>
 
-<h2 style = "font-family: 'Times New Roman',serif; font-size: 160%; color: MediumSeaGreen;">Taco Bar Calculator!</h2>
+<h2 style = "font-family: 'Times New Roman',serif; font-size: 160%; color: MediumSeaGreen;">Taco Bar Calculator! & Catering Selection Sheet</h2>
 <a href="https://www.omnicalculator.com/food/taco-bar" target="_blank">Visit Taco Bar Calculator Website</a>
 <br>
 <br>
 <a href="downloads/Fiesta Empire Selection.pdf" download>Download Fiesta Empire Selection (PDF)</a>
 <br>
-
+<br>
 <footer>
   <p> Page made by Dexter Kelleher</p>
   <p>Date modified by: <span id ="datemodified"></p>
