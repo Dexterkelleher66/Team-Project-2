@@ -65,7 +65,10 @@ Customizable Menus</h2>
     <li>  Deposit & Finalize Booking</li>
     <li>  Event Day!</li>
   </ol>
+<h2 style = "font family: 'Verdana', serif; font-size: 260%; color: MediumSeaGreen;">Click here to contact me with any questions:</h2>
+<a href = "mailto:dkelleh@purdue.edu"></a>
 
+  
 <footer>
   <p> Page made by Dexter Kelleher</p>
   <p> Date modfied by: <span id= "datemodified"></span></p>
