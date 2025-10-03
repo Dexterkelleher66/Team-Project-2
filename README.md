@@ -52,7 +52,7 @@
     <li>Private Parties & Celebrations</li>
   </ul>
 
- <h2 style="font-family: 'Times New Roman',font-size: 160%; color: MediumSeaGreen;">
+ <h2 style="font-family: 'Times New Roman',serif;font-size: 160%; color: MediumSeaGreen;">
 Customizable Menus</h2>
 <p style="color: Black;">Create your own personal menu out of our variety of traditional Mexican meals that best suits your personal preferences and dietary needs.<p/>
 
@@ -60,26 +60,11 @@ Customizable Menus</h2>
     Authentic Mexican cuisine for any occasion </h2>
 <p style = "color: Black;">Every dish is cooked from scratch, including our hand-pressed tortillas, fire-roasted salsas, and small-batch marinades made in-house each day using fresh, seasonal ingredients from nearby farms and purveyors. We skip the frozen shortcuts so flavors stay bright and authentic, and we scale that same quality from a 20-person lunch to a 200-guest celebration.<p/>
 
-<h2 style = "font-family: 'Times New Roman, font-size: 160%; color: MediumSeaGreen
-<ol>
-  <li>
-    <strong>Inquiry</strong><br>
-    Reach out via contact form, email, or phone. We'll answer your initial questions and collect basic information.
-  </li>
-  <li>
-    <strong>Order/Booking</strong><br>
-    Confirm your interest and provide event details (date, location, special requests). We’ll send you a service agreement to review and sign.
-  </li>
-  <li>
-    <strong>Deposit</strong><br>
-    Secure your booking with a deposit. Once received, your event date is reserved.
-  </li>
-  <li>
-    <strong>Pre-Event Communication</strong><br>
-    Discuss final details, preferences, and logistics. Any remaining balance is due before the event day.
-  </li>
-  <li>
-    <strong>Event Day</strong><br>
-    We provide the agreed-upon service for your event. Afterward, we’ll follow up for feedback and to say thank you!
-  </li>
-</ol>
+<h2 style = "font-family: 'Times New Roman, font-size: 160%; color: MediumSeaGreen>Service Timeline"</h2>
+ <ul>
+    <li> 1. Inquiry & Initial Questions</li>
+    <li> 2. Order & Booking</li>
+    <li> 3. Deposit & Finalize Booking</li>
+    <li> 4. Event Day!</li>
+  </ul>
+
