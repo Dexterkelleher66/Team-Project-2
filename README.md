@@ -71,3 +71,8 @@ Customizable Menus</h2>
   Contact us at 
   <a href="mailto:dkelleh@purdue.edu">dkelleh@purdue.edu</a>
 </footer>
+
+<h2 style = "font-family: 'Times New Roman',serif; font-size: 160%; color: MediumSeaGreen;">Taco Bar Calculator!</h2>
+<a href="https://www.omnicalculator.com/food/taco-bar" target="_blank">Visit Taco Bar Calculator Website</a>
+
+
