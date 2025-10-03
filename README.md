@@ -7,9 +7,7 @@
     Authentic Mexican cuisine for any occasion
   </h2>
 
-<table>
-  <div style="text-align: center;">
-    <table style="margin: auto; background-color: gray;">
+<table style="margin: auto; background-color: Tomato;">  <div style="text-align: center;">
   <tr>
     <th style="color: MediumSeaGreen; font-size: 120%;">Drop-Off Platters</th>
     <th style="color: MediumSeaGreen; font-size: 120%;">Buffet Service</th>
