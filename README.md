@@ -40,6 +40,9 @@
   </tr>
 </table>
 
+<img src="https://github.com/dexterkelleher66/Team-Projext-2/raw/main/inages/Fiesta Empire.jpeg" alt = "image" height = "300">
+
+
  <h2 style="font-family: 'Times New Roman', serif; font-size: 160%; color: MediumSeaGreen;">
     Events We Cater
   </h2>
