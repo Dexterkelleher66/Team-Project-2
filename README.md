@@ -65,7 +65,7 @@ Customizable Menus</h2>
     <li>  Event Day!</li>
   </ol>
 <h2 style = "font family: 'Verdana', serif; font-size: 260%; color: MediumSeaGreen;">Click here to contact me with any questions:</h2>
-<a href="dkelleh@purdue.edu">dkelleh@purdue.edu</a>
+<a href="mailto:dkelleh@purdue.edu">
   
 <footer>
   <p> Page made by Dexter Kelleher</p>
