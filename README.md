@@ -76,3 +76,8 @@ Customizable Menus</h2>
 <a href="https://www.omnicalculator.com/food/taco-bar" target="_blank">Visit Taco Bar Calculator Website</a>
 
 
+<script>
+  document.getElementById("lastModified").textContent = document.lastModified;
+</script>
+
+
