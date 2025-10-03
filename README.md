@@ -66,3 +66,10 @@ Customizable Menus</h2>
     <li>  Event Day!</li>
   </ol>
 
+<footer>
+  <p> Page made by Dexter Kelleher</p>
+  <p> Date modfied by: <span id= "datemodified"></span></p>
+</footer>
+</script>
+document.getElementByID('datemodified').textContent = newDate().toISOString().split('T')[0];
+</script>
