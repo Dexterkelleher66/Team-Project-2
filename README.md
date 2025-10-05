@@ -39,7 +39,9 @@
     </td>
   </tr>
 </table>
+<p/>
 
+  
 <img src="https://github.com/Dexterkelleher66/Team-Project-2/raw/main/images/Fiesta%20Empire.jpg" alt="image" height="300">
 
 
