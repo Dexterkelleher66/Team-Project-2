@@ -64,7 +64,6 @@ Customizable Menus</h2>
   made in-house each day using fresh, seasonal ingredients from nearby farms and purveyors. We skip the frozen shortcuts so flavors stay <color: tomato>bright</tomato> and authentic, and we scale that same quality from a <b>20-person</b> lunch to a <b>200-guest celbration.</b><p/>
 
 <h2 style = "font-family: 'Times New Roman',serif; font-size: 160%; color: MediumSeaGreen;">Service Timeline</h2>
-<ol style="font-style: italic;">
  <ol>
     <li>  Inquiry & Initial Questions</li>
     <li>  Order & Booking</li>
