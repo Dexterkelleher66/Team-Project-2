@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <p style="font-family: verdana;"><b>$14–$20 per guest</b><p/>
+      <p style="font-family: Verdana;"><b>$14–$20 per guest</b></p>
       <ul>
         <li>Freshly prepared dishes</li>
         <li>Disposable serveware</li>
@@ -30,7 +30,7 @@
       </ul>
     </td>
     <td style="vertical-align: top;">
-      <p style="font-family: verdana;"><b>$26–$32 per guest</b></p>
+      <p style="font-family: Verdana;"><b>$26–$32 per guest</b></p>
       <ul>
         <li>All-inclusive catering</li>
         <li>Custom menu design & decor</li>
@@ -39,9 +39,8 @@
     </td>
   </tr>
 </table>
-<p/>
+<br>
 
-  
 <img src="https://github.com/Dexterkelleher66/Team-Project-2/raw/main/images/Fiesta%20Empire.jpg" alt="image" height="300">
 
 
