@@ -54,14 +54,16 @@
 
  <h2 style="font-family: 'Times New Roman',serif;font-size: 160%; color: MediumSeaGreen;">
 Customizable Menus</h2>
-<p style="color: Black;">Create your own personal menu out of our variety of traditional Mexican meals that best suits your personal preferences and dietary needs.<p/>
+<p style="color:black; font-style: italic;">
+  Create your own personal menu out of our variety of traditional Mexican meals that best suits your personal preferences and dietary needs.
+</p>
 
  <h2 style="font-family: 'Times New Roman', serif; font-size: 160%; color: MediumSeaGreen;">
     Authentic Mexican cuisine for any occasion </h2>
     <p style="color: Black;">
   Every dish is cooked from <b>scratch</b>, including our
   <span style="color: Tomato; font-weight: bold;">hand-pressed tortillas, fire-roasted salsas, and small-batch marinades</span>
-  made in-house each day using fresh, seasonal ingredients from nearby farms and purveyors. We skip the frozen shortcuts so flavors stay <color: tomato>bright</tomato> and authentic, and we scale that same quality from a <b>20-person</b> lunch to a <b>200-guest celbration.</b><p/>
+  made in-house each day using fresh, seasonal ingredients from nearby farms and purveyors. We skip the frozen shortcuts so flavors stay <b>bright</b> and authentic, and we scale that same quality from a <b>20-person</b> lunch to a <b>200-guest celbration.</b><p/>
 
 <h2 style = "font-family: 'Times New Roman',serif; font-size: 160%; color: MediumSeaGreen;">Service Timeline</h2>
  <ol>
